@@ -13,9 +13,9 @@ struct SwiftUIView: View {
             Image(systemName: "globe")
                 .padding(.bottom, 20)
                 .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
-            Text("Files in View do not need to think:) , it should just show what you tell it to")
+            Text("InputViews in View do not need to think:) , it should just show what you tell it to")
                 .padding(.bottom)
-            Text("Files in ViewModel would do all business logic")
+            Text("InputViews in ViewModel would do all business logic")
         }
         .padding()
     }
